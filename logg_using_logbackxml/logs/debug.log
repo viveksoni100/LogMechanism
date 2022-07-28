@@ -1,0 +1,44 @@
+2022-07-28 23:18:59 [main] INFO  com.example.demo.LoggingApplication -
+                Starting LoggingApplication using Java 11.0.4 on viveksoni100 with PID 9504 (/home/vivek/Git/LogMechanism/logg_using_logbackxml/target/classes started by vivek in /home/vivek/Git/LogMechanism/logg_using_logbackxml)
+2022-07-28 23:18:59 [main] DEBUG com.example.demo.LoggingApplication -
+                Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-28 23:18:59 [main] INFO  com.example.demo.LoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-07-28 23:19:00 [main] INFO  com.example.demo.LoggingApplication -
+                Started LoggingApplication in 1.388 seconds (JVM running for 2.234)
+2022-07-28 23:19:21 [http-nio-9090-exec-1] DEBUG com.example.demo.LoggingApplication -
+                request Vivek
+2022-07-28 23:19:21 [http-nio-9090-exec-1] DEBUG com.example.demo.LoggingApplication -
+                response Hi Vivek Welcome to the Jungle!
+2022-07-28 23:19:25 [http-nio-9090-exec-3] DEBUG com.example.demo.LoggingApplication -
+                request Vivek
+2022-07-28 23:19:25 [http-nio-9090-exec-3] DEBUG com.example.demo.LoggingApplication -
+                response Hi Vivek Welcome to the Jungle!
+2022-07-28 23:19:44 [http-nio-9090-exec-4] DEBUG com.example.demo.LoggingApplication -
+                request Vivek
+2022-07-28 23:19:44 [http-nio-9090-exec-4] DEBUG com.example.demo.LoggingApplication -
+                response Hi Vivek Welcome to the Jungle!
+2022-07-28 23:21:30 [main] INFO  com.example.demo.LoggingApplication -
+                Starting LoggingApplication using Java 11.0.4 on viveksoni100 with PID 9742 (/home/vivek/Git/LogMechanism/logg_using_logbackxml/target/classes started by vivek in /home/vivek/Git/LogMechanism/logg_using_logbackxml)
+2022-07-28 23:21:30 [main] DEBUG com.example.demo.LoggingApplication -
+                Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-28 23:21:30 [main] INFO  com.example.demo.LoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-07-28 23:21:31 [main] INFO  com.example.demo.LoggingApplication -
+                Started LoggingApplication in 1.283 seconds (JVM running for 2.096)
+2022-07-28 23:24:31 [main] INFO  com.example.demo.LoggingApplication -
+                Starting LoggingApplication using Java 11.0.4 on viveksoni100 with PID 9977 (/home/vivek/Git/LogMechanism/logg_using_logbackxml/target/classes started by vivek in /home/vivek/Git/LogMechanism/logg_using_logbackxml)
+2022-07-28 23:24:31 [main] DEBUG com.example.demo.LoggingApplication -
+                Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-28 23:24:31 [main] INFO  com.example.demo.LoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-07-28 23:24:32 [main] INFO  com.example.demo.LoggingApplication -
+                Started LoggingApplication in 1.347 seconds (JVM running for 2.087)
+2022-07-28 23:26:16 [main] INFO  com.example.demo.LoggingApplication -
+                Starting LoggingApplication using Java 11.0.4 on viveksoni100 with PID 10142 (/home/vivek/Git/LogMechanism/logg_using_logbackxml/target/classes started by vivek in /home/vivek/Git/LogMechanism/logg_using_logbackxml)
+2022-07-28 23:26:16 [main] DEBUG com.example.demo.LoggingApplication -
+                Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-28 23:26:16 [main] INFO  com.example.demo.LoggingApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2022-07-28 23:26:17 [main] INFO  com.example.demo.LoggingApplication -
+                Started LoggingApplication in 1.325 seconds (JVM running for 2.029)

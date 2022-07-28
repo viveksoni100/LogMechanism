@@ -1,0 +1,10 @@
+2022-07-28 23:44:49 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on viveksoni100 with PID 11414 (/home/vivek/Git/LogMechanism/spring-boot-logging-master/target/classes started by vivek in /home/vivek/Git/LogMechanism/spring-boot-logging-master)
+2022-07-28 23:44:49 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v1.5.12.RELEASE, Spring v4.3.16.RELEASE
+2022-07-28 23:44:49 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2022-07-28 23:44:50 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 1.654 seconds (JVM running for 2.313)
+2022-07-28 23:45:21 [http-nio-8080-exec-4] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request test
